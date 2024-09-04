@@ -7,3 +7,4 @@ xhofe/alist:latest
 alpine
 vaultwarden/server:latest
 vaultwarden/server
+vaultwarden
